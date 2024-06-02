@@ -18,8 +18,7 @@
   },
   "homepage": "https://github.com/rishi-saxena-07/WeatherApp#readme",
   "dependencies": {
-    "express": "^4.19.2",
-    "requirejs": "^2.3.6"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "dotenv": "^16.4.5",
