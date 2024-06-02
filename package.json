@@ -1,0 +1,30 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "To check weather details of different cities.",
+  "main": "index.html",
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishi-saxena-07/WeatherApp.git"
+  },
+  "author": "Rishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishi-saxena-07/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/rishi-saxena-07/WeatherApp#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "dotenv-webpack": "^8.1.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
